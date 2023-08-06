@@ -1,4 +1,4 @@
-This is the clone of an E_commerce website known as [SHOPPERS STOP](https://www.shoppersstop.com) build using Node js, EJS,  Express js, and Mongoose. We started this project as a six member team during the third unit construct week organised at Masai School, Bengaluru, Karnataka. 
+This is the clone of an E_commerce website known as [SHOPPERS STOP](https://www.shoppersstop.com). 
 
 ## Basic inference about the company
 
